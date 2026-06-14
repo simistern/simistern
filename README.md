@@ -49,7 +49,6 @@ I build cool software and share what I learn. Mostly working at the intersection
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=simistern&show_icons=true&hide_border=true&hide_title=true&hide=contribs&title_color=fff&text_color=fff&icon_color=fff&bg_color=00000000" />
-  <img src="https://github-readme-stats.vercel.app/api?username=simistern&show_icons=true&hide_border=true&hide_title=true&hide=contribs&title_color=000&text_color=000&icon_color=000&bg_color=ffffff" alt="github stats" height="135" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=simistern&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=00000000" />
