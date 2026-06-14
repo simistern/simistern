@@ -2,8 +2,8 @@
 
 <a href="https://simonstern.ca">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=42&pause=1000&color=FFFFFF&center=true&vCenter=true&width=520&height=60&lines=simon+stern" />
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=42&pause=1000&color=000000&center=true&vCenter=true&width=520&height=60&lines=simon+stern" alt="simon stern" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=42&pause=1000&color=FFFFFF&center=true&vCenter=true&width=520&height=60&lines=Simon+Stern" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=42&pause=1000&color=000000&center=true&vCenter=true&width=520&height=60&lines=Simon+Stern" alt="Simon Stern" />
   </picture>
 </a>
 
@@ -21,7 +21,7 @@
 
 I build cool software and share what I learn. Mostly working at the intersection of **mobile**, **AI/LLMs**, and **web3**. Currently leading developer relations for [**Superteam Canada**](https://superteam.ca), running [**PredictTO**](https://predictto.ca), and shipping out of [**Apricot Studios**](https://apricotstudios.ca).
 
-> *Science fiction is the roadmap to inspiring technology.*
+> *Science fiction is the roadmap.*
 
 ---
 
