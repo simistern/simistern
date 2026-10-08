@@ -19,9 +19,7 @@
 
 ### ▶&nbsp; now
 
-I build cool software and share what I learn. Mostly working at the intersection of **mobile**, **AI/LLMs**, and **web3**. Currently leading developer relations for [**Superteam Canada**](https://superteam.ca), running [**PredictTO**](https://predictto.ca), and shipping out of [**Apricot Studios**](https://apricotstudios.ca).
-
-> *Science fiction is the roadmap.*
+I build software and share what I learn. Mostly working at the intersection of **mobile**, **AI/LLMs**, and **open finance**. Previously lead developer relations for [**Superteam Canada**](https://superteam.ca), running [**PredictTO**](https://predictto.ca), and shipping out of [**Apricot Studios**](https://apricotstudios.ca).
 
 ---
 
